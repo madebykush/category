@@ -1,0 +1,599 @@
+.category-products .image-4 {
+  background: url('../assets/images/image_43.png');
+  width: 13.7rem;
+  height: 13.4rem;
+}
+.category-products .frame-90 {
+  background: #F9F9F9;
+  margin-bottom: 1.9rem;
+  display: flex;
+  padding: 0 1rem 0.6rem 1rem;
+  width: 15.8rem;
+  height: 14rem;
+  box-sizing: border-box;
+}
+.category-products .cherry-juice {
+  margin: 0 0.5rem 1.1rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #013D29;
+}
+.category-products .vector {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-21 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-1 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-22 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-2 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-23 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-3 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-24 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-4 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-25 {
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .frame-92 {
+  margin: 0rem 1rem 0 0;
+  display: flex;
+  flex-direction: row;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container {
+  margin-bottom: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 0.7rem;
+  color: #000000;
+}
+.category-products .frame-1618873274 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-1 {
+  margin-left: 0.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.category-products .frame-1618873352 {
+  margin-right: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .frame-22 {
+  margin: 0 1.9rem 2rem 1.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8rem;
+  box-sizing: border-box;
+}
+.category-products .buy-now {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #013D29;
+}
+.category-products .recipes {
+  border-top: 0.1rem solid #E8E8E8;
+  display: flex;
+  padding: 1.4rem 0.9rem 1.6rem 0;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .product {
+  border: 0.1rem solid #E8E8E8;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.9rem;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .image-5 {
+  background: url('../assets/images/image_42.jpeg');
+  width: 13.8rem;
+  height: 13.8rem;
+}
+.category-products .frame-901 {
+  background: #FFFFFF;
+  margin-bottom: 1.9rem;
+  display: flex;
+  padding: 0.1rem 1rem;
+  width: 15.8rem;
+  height: 14rem;
+  box-sizing: border-box;
+}
+.category-products .moroccan-lemons {
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #013D29;
+}
+.category-products .vector-5 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-211 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-6 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-221 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-7 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-231 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-8 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-241 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-9 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-251 {
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .frame-921 {
+  margin: 0rem 1rem 0 0;
+  display: flex;
+  flex-direction: row;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-2 {
+  margin-bottom: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 0.7rem;
+  color: #000000;
+}
+.category-products .frame-16188732741 {
+  margin: 0 0.9rem 1rem 0.8rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.category-products .frame-16188733521 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .frame-221 {
+  margin: 0 1.9rem 2rem 1.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8rem;
+  box-sizing: border-box;
+}
+.category-products .buy-now-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #013D29;
+}
+.category-products .recipes-1 {
+  border-top: 0.1rem solid #E8E8E8;
+  display: flex;
+  padding: 1.4rem 0.9rem 1.6rem 0;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .product-1 {
+  border: 0.1rem solid #E8E8E8;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.9rem;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .image-41 {
+  background: url('../assets/images/image_44.png') 50% / cover no-repeat;
+  width: 13.8rem;
+  height: 13.8rem;
+}
+.category-products .frame-902 {
+  background: #FFFFFF;
+  margin-bottom: 1.9rem;
+  display: flex;
+  padding: 0.1rem 1rem;
+  width: 15.8rem;
+  height: 14rem;
+  box-sizing: border-box;
+}
+.category-products .radishes {
+  margin: 0 0 1.1rem 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #013D29;
+}
+.category-products .vector-10 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-212 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-11 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-222 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-12 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-232 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-13 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-242 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-14 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-252 {
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .frame-922 {
+  margin: 0rem 1rem 0 0;
+  display: flex;
+  flex-direction: row;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-4 {
+  margin-bottom: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 0.7rem;
+  color: #000000;
+}
+.category-products .frame-16188732742 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-5 {
+  margin-left: 0.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.category-products .frame-16188733522 {
+  margin-right: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .frame-222 {
+  margin: 0 1.9rem 2rem 1.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8rem;
+  box-sizing: border-box;
+}
+.category-products .buy-now-2 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #013D29;
+}
+.category-products .recipes-2 {
+  border-top: 0.1rem solid #E8E8E8;
+  display: flex;
+  padding: 1.4rem 0.9rem 1.6rem 0;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .product-2 {
+  border: 0.1rem solid #E8E8E8;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.9rem;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .image-51 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 13.8rem;
+  height: 13.8rem;
+}
+.category-products .frame-903 {
+  background: #FFFFFF;
+  margin-bottom: 1.9rem;
+  display: flex;
+  padding: 0.1rem 1rem;
+  width: 15.8rem;
+  height: 14rem;
+  box-sizing: border-box;
+}
+.category-products .chinese-cabbage {
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #013D29;
+}
+.category-products .vector-15 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-213 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-16 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-223 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-17 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-233 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-18 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-243 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .vector-19 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.category-products .star-253 {
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.category-products .frame-923 {
+  margin: 0rem 1rem 0 0;
+  display: flex;
+  flex-direction: row;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-6 {
+  margin-bottom: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 0.7rem;
+  color: #000000;
+}
+.category-products .frame-16188732743 {
+  margin: 0 0.6rem 1rem 0.5rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.category-products .frame-16188733523 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.category-products .frame-223 {
+  margin: 0 1.9rem 2rem 1.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8rem;
+  box-sizing: border-box;
+}
+.category-products .buy-now-3 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #013D29;
+}
+.category-products .recipes-3 {
+  border-top: 0.1rem solid #E8E8E8;
+  display: flex;
+  padding: 1.4rem 0.9rem 1.6rem 0;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products .product-3 {
+  border: 0.1rem solid #E8E8E8;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.9rem;
+  width: 19.5rem;
+  box-sizing: border-box;
+}
+.category-products {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+  width: 81rem;
+  box-sizing: border-box;
+}
